@@ -2,7 +2,10 @@
     "compilerOptions": {
         "target": "ES6",
         "outDir": "./dist/js",
-        "watch": true
+        "allowJs": true,
+        "removeComments": true,
     },
-    "include": ["./src"]
+    "include": [
+        "./src"
+    ]
 }
