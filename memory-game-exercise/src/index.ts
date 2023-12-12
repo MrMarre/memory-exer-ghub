@@ -9,7 +9,7 @@
 // checkIfMatched om first === second
 
 // ******************************************MEMORY****************************************//
-
+//Grymma vi är ändå
 let cardValue: any;
 
 let card: any;
